@@ -1,7 +1,6 @@
 
 
-<h1>Hi there, I'm Dheeraj👋
-   <br>Frontend Developer <br> From India.<h1>
+<h1 align="center">Hi there, I'm Dheeraj Frontend Developer <br> From India.<h1>
 
 ## My Skills
 
