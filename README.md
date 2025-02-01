@@ -1,8 +1,7 @@
 
-
 <h1 align="center">Hey👋,I'm Dheeraj Mishra. 
 
-<h2 Currently learning Backend Development> 
+<h2 align="centre">Currently learning  Backend Development
 
 ## My Skills
 
