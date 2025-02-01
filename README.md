@@ -15,7 +15,7 @@
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/dheeraj-mishra-575ab9291/" target="_blank">Dheeraj Mishra</a>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/dheeraj-mishra-575ab9291/" target="_blank">Dheeraj Mishra</a> <br>
 Email: dheerajmishra4545@gmail.com</p>
 <p align="center">🔗 Instagram: <a href="https://www.instagram.com/i_m_dhiru45/" target="_blank">Dheeraj Mishra</a></p>
 
