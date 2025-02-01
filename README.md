@@ -1,6 +1,8 @@
 
 
-<h1 align="center">Hey,I'm Dheeraj Developer <br> From India.<h1>
+<h1 align="center">Hey👋,I'm Dheeraj Mishra. 
+
+<h2 Currently learning Backend Development> 
 
 ## My Skills
 
